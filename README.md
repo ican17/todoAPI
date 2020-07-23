@@ -7,3 +7,7 @@ run this command : npm install #to setup the project
 
 Scripts :
   - npm start # run the server at port 8080
+
+Demo: 
+
+GET https://todo-api-dz17.herokuapp.com/todos # list all the todos in json format.
