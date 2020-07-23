@@ -1,5 +1,5 @@
 # todoAPI
-This is a simple API for todos. it was made intially to feed a simple todo react app that you can find here : https://github.com/ican17/todoApp/blob/master/README.md (Deom: https://todo-cb3af.web.app/)
+This is a simple API for todos. it was made intially to feed a simple todo react app that you can find here : https://github.com/ican17/todoApp/blob/master/README.md (Demo: https://todo-cb3af.web.app/)
 
 First step:
 
